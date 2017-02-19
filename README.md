@@ -11,7 +11,7 @@ Validate your page using the W3C Markup Validation Service.
 
 ~~Use external style sheets to manage the overall consistency of the site.~~
 
-~~Demonstrate text configuration with CSS. (font-weight, style, etc.)
+~~Demonstrate text configuration with CSS. (font-weight, style, etc.)~~
 
 ~~Use of CSS Classes, Id's, and Descendant Selectors.~~
 
@@ -20,21 +20,21 @@ Validate your page using the W3C Markup Validation Service.
 Use 
 
 ### Additional Requirements:
-~~Include `<HR>` element
+~~Include `<HR>` element~~
 
-~~Include the use of borders and padding
+~~Include the use of borders and padding~~
 
-~~Use a figure caption
+~~Use a figure caption~~
 
-~~Use the HTML5 Meter Element _(About Us page)_
+~~Use the HTML5 Meter Element _(About Us page)_~~
 
-~~Use of the HTML5 Progress Element _(index page)_
+~~Use of the HTML5 Progress Element _(index page)_~~
 
 ~~Use of the background-repeat property~~
 
 ~~Place all images in an images folder in your public_html folder (you'll have to reference them images/dog.jpg)~~
 
-~~Add an image map
+~~Add an image map~~
 
 ~~Include a favorites icon~~
 
