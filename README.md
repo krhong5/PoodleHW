@@ -15,7 +15,7 @@ Validate your page using the W3C Markup Validation Service.
 
 ~~Use of CSS Classes, Id's, and Descendant Selectors.~~
 
-~~Use images appropriately. Don't forget ALT information.
+~~Use images appropriately. Don't forget ALT information.~~
 
 Use 
 
